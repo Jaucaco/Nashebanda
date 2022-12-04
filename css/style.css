@@ -1,0 +1,36 @@
+.nashe{
+    background-color: black;
+}
+
+.titulo{
+    font-family: 'Playfair Display', serif;
+    margin: 0px 0px 0px 0px;
+}
+ 
+.carrousel{
+    margin-left:10px;
+	margin-right: 10px;
+    margin-top: 10px;
+    
+    
+    
+}
+img{
+    width: 100%;
+    height: 700px;
+}
+video{
+    margin: 74px 10px 10px 10px;
+    padding-top: 25px;
+    display: block;
+    height: 450px;
+    width: 100%;
+   
+    
+}
+h1{
+    color: white;
+    align-content: center;
+    padding: 15px 5px 5px 5px;
+    border-radius: 5px;
+}
