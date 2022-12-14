@@ -12,8 +12,6 @@
 	margin-right: 10px;
     margin-top: 10px;
     
-    
-    
 }
 img{
     width: 100%;
@@ -24,13 +22,26 @@ video{
     padding-top: 25px;
     display: block;
     height: 450px;
-    width: 100%;
+    width: 95%;
+    text-align: center;
    
     
 }
-h1{
+.testo{
     color: white;
-    align-content: center;
+    border-top: 25px;
     padding: 15px 5px 5px 5px;
     border-radius: 5px;
+    text-align: center;
+    font-size: 45px;
+}
+
+/*-------------------------------------------------------Individuales---------------------------------------------------------*/
+
+/*Rolucero*/
+.rl{
+    background-color: #2D3C41;
+    text-align: center;
+    font-size: 45px;
+    color: #94BFB6;
 }
