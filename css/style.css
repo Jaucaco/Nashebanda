@@ -17,16 +17,7 @@ img{
     width: 100%;
     height: 700px;
 }
-video{
-    margin: 74px 10px 10px 10px;
-    padding-top: 25px;
-    display: block;
-    height: 450px;
-    width: 95%;
-    text-align: center;
-   
-    
-}
+
 .testo{
     color: white;
     border-top: 25px;
@@ -35,12 +26,50 @@ video{
     text-align: center;
     font-size: 45px;
 }
-
+/*---------------------------------------------------------Inicio-------------------------------------------------------------*/
+video{
+    margin: 74px 10px 10px 10px;
+    padding-top: 25px;
+    display: block;
+    height: 450px;
+    width: 95%;
+    text-align: center;
+}
+.tm{
+    color: white;
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 32px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.nashes{
+    margin-left: 32px;
+    margin-right: 32px;
+    
+}
+.gracias{
+    
+    padding-top: 38px;
+    color: white;
+    font-family: 'La Belle Aurore', cursive;
+    text-align: center;
+    font-size: 45px;
+}
+.gracias2{
+    padding-top: 5px;
+    color: white;
+    font-family: 'La Belle Aurore', cursive;
+    text-align: center;
+    font-size: 45px;
+}
 /*-------------------------------------------------------Individuales---------------------------------------------------------*/
-
+ 
 /*Rolucero*/
-.rl{
+.pagrl{
     background-color: #2D3C41;
+}
+.rl{
+    
     text-align: center;
     font-size: 45px;
     color: #94BFB6;
