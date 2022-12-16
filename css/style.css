@@ -63,10 +63,20 @@ video{
     font-size: 45px;
 }
 /*-------------------------------------------------------Individuales---------------------------------------------------------*/
-/*Julia*/
 
 
-/*Julia*/
+/*MEL*/
+.pagmel{
+    background-color: #A50706;
+    font-family: 'Press Start 2P', cursive
+}
+.motomel{
+    
+    text-align: center;
+    font-size: 45px;
+    color: #000000;
+}
+/*MEL*/
 
 
 /*Rolucero*/
